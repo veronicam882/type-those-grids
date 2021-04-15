@@ -1,12 +1,12 @@
 html {
-    box-sizing: border-box;
-    font-family: "Merriweather", serif;
-    line-height: 1.5;
-  }
+  box-sizing: border-box;
+  font-family: "Merriweather", serif;
+  line-height: 1.5;
+}
 
-  *, *::before, *::after {
-    box-sizing: inherit;
-  }
+*, *::before, *::after {
+  box-sizing: inherit;
+}
 
 h1 {
   font-style: italic;
@@ -28,6 +28,7 @@ main {
 div > h2 + dl {
   padding-left: 1.5rem;
 }
+
 dt {
   font-style: italic;
 }
